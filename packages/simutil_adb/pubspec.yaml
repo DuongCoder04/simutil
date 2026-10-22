@@ -12,6 +12,7 @@ resolution: workspace
 
 dependencies:
   ffi: ^2.1.0
+  fixnum: ^1.1.0
   grpc: ^5.1.0
   multicast_dns: ^0.3.3
   protobuf: ^6.1.0
